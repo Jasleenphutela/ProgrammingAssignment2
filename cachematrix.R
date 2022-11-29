@@ -1,6 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
 
+#x as input matrix
+# s value to null
 makeCacheMatrix <- function(x = matrix()) {
          s <- NULL
   set <- function(y) {
